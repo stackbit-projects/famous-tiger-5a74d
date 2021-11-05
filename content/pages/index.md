@@ -16,7 +16,7 @@ sections:
       ingeniería de sistemas. Asimismo, tengo las certificaciones de PMP y
       PMI-ACP. Actualmente estoy haciendo una maestría en Data Science.
     actions:
-      - label: Contact Me
+      - label: Contáctame
         url: /contact
         style: button
   - section_id: recent-posts
