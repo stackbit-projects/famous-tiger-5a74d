@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Raul Mercado.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Desarrollo aplicaciones web para todo tipo de industrias, utilizando
+      tecnologías de vanguardia.
   - section_id: about
     type: section_content
     title: About
